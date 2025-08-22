@@ -70,7 +70,7 @@
   <section id="contact" class="max-w-4xl mx-auto my-12 p-6 bg-white rounded-xl shadow text-center">
     <h2 class="text-2xl font-semibold mb-4">Contact Me</h2>
     <p>Email: <a href="mailto:mutungawilly38@gmail.com" class="text-blue-600">mutungawilly38@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank" class="text-blue-600">linkedin.com/in/yourprofile</a></p>
+    <p>LinkedIn: <a href="www.linkedin.com/in/willy-musyoka-a1bba7334" target="_blank" class="text-blue-600">www.linkedin.com/in/willy-musyoka-a1bba7334</a></p>
     <p>GitHub: <a href="https://github.com/wiley-pixel" target="_blank" class="text-blue-600">github.com/wiley-pixel</a></p>
   </section>
 
