@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>[Your Name] - Portfolio</title>
+  <title>Mutunga Willy- Portfolio</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 text-gray-900">
@@ -29,7 +29,7 @@
   <!-- About Section -->
   <section id="about" class="max-w-4xl mx-auto my-12 p-6 bg-white rounded-xl shadow">
     <h2 class="text-2xl font-semibold mb-4">About Me</h2>
-    <p>Hello! I'm <b>[Your Name]</b>, a Diploma student in Computer Science & Cybersecurity. 
+    <p>Hello! I'm <b>Mutunga Willy</b>, a Diploma student in Computer Science & Cybersecurity. 
        Passionate about technology, data, and security. I'm currently seeking an 
        attachment opportunity to apply my skills and grow professionally.</p>
   </section>
