@@ -100,7 +100,7 @@
 
   <!-- Footer -->
   <footer class="bg-gray-900 text-white py-4 text-center">
-    <p>© 2025 [Your Name] | Portfolio Website</p>
+    <p>© 2025 Mutunga Willy | Portfolio Website</p>
   </footer>
 
 </body>
